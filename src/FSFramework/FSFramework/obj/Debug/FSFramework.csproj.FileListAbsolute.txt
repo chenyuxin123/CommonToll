@@ -1,0 +1,9 @@
+D:\workspace\FSFramework\FSFramework\obj\Debug\FSFramework.csprojResolveAssemblyReference.cache
+D:\workspace\FSFramework\FSFramework\bin\Debug\FSFramework.XML
+D:\workspace\FSFramework\FSFramework\bin\Debug\FSFramework.dll
+D:\workspace\FSFramework\FSFramework\bin\Debug\FSFramework.pdb
+D:\workspace\FSFramework\FSFramework\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\FSFramework\FSFramework\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\FSFramework\FSFramework\obj\Debug\FSFramework.dll
+D:\workspace\FSFramework\FSFramework\obj\Debug\FSFramework.pdb
+D:\workspace\FSFramework\FSFramework\obj\Debug\FSFramework.csproj.CoreCompileInputs.cache

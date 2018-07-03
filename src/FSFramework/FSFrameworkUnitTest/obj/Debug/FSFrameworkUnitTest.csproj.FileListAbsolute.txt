@@ -1,0 +1,13 @@
+D:\workspace\FSFramework\FSFrameworkUnitTest\bin\Debug\FSFrameworkUnitTest.dll
+D:\workspace\FSFramework\FSFrameworkUnitTest\bin\Debug\FSFrameworkUnitTest.pdb
+D:\workspace\FSFramework\FSFrameworkUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\workspace\FSFramework\FSFrameworkUnitTest\obj\Debug\FSFrameworkUnitTest.csprojResolveAssemblyReference.cache
+D:\workspace\FSFramework\FSFrameworkUnitTest\obj\Debug\FSFrameworkUnitTest.dll
+D:\workspace\FSFramework\FSFrameworkUnitTest\obj\Debug\FSFrameworkUnitTest.pdb
+D:\workspace\FSFramework\FSFrameworkUnitTest\bin\Debug\FSFramework.dll
+D:\workspace\FSFramework\FSFrameworkUnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\FSFramework\FSFrameworkUnitTest\bin\Debug\FSFramework.pdb
+D:\workspace\FSFramework\FSFrameworkUnitTest\bin\Debug\FSFramework.xml
+D:\workspace\FSFramework\FSFrameworkUnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\FSFramework\FSFrameworkUnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\workspace\FSFramework\FSFrameworkUnitTest\obj\Debug\FSFrameworkUnitTest.csproj.CoreCompileInputs.cache
