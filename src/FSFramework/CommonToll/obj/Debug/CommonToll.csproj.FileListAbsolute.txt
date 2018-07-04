@@ -1,0 +1,10 @@
+D:\GitHub\CommonToll\src\FSFramework\FSFramework\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\CommonToll\src\FSFramework\FSFramework\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\CommonToll\src\FSFramework\FSFramework\obj\Debug\CommonToll.csprojAssemblyReference.cache
+D:\GitHub\CommonToll\src\FSFramework\FSFramework\obj\Debug\CommonToll.csproj.CoreCompileInputs.cache
+D:\GitHub\CommonToll\src\FSFramework\FSFramework\obj\Debug\CommonToll.csproj.CopyComplete
+D:\GitHub\CommonToll\src\FSFramework\FSFramework\bin\Debug\CommonToll.xml
+D:\GitHub\CommonToll\src\FSFramework\FSFramework\bin\Debug\CommonToll.dll
+D:\GitHub\CommonToll\src\FSFramework\FSFramework\bin\Debug\CommonToll.pdb
+D:\GitHub\CommonToll\src\FSFramework\FSFramework\obj\Debug\CommonToll.dll
+D:\GitHub\CommonToll\src\FSFramework\FSFramework\obj\Debug\CommonToll.pdb
